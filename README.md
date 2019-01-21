@@ -15,13 +15,13 @@
 * 轉灰階其實就是將原始圖片讀入後將每個圖片中每個PIXEL除以255 讓值介於0~1之間
 * 最難的部分是調整PCA的參數，太大要跑非常久尤其是SKLEARN不支援GPU加速 太小根本學不到東西
 * 有試過把PCA的N_COMPONENT參數調為1，明顯沒用，完全沒學習到
-  ![FAIL](https://github.com/jt851113/ML2018_410421233/blob/master/photo/FAIL.png)
+  ![FAIL](https://github.com/jt851113/ML2018_410421233/raw/master/photo/FAIL.png)
 * 訓練過程
 
-  ![Process](https://github.com/jt851113/ML2018_410421233/blob/master/photo/PROCESS.JPG)
+  ![Process](https://github.com/jt851113/ML2018_410421233/raw/master/photo/PROCESS.JPG)
 
 * 最後結果
-  ![FINAL](https://github.com/jt851113/ML2018_410421233/blob/master/photo/final.JPG)
+  ![FINAL](https://github.com/jt851113/ML2018_410421233/blob/raw/photo/final.JPG)
   算不上好而且還有很大進步空間，大概要透過SVM的設置來改善
   
 ### 雜談:
