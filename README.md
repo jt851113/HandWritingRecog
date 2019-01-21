@@ -21,7 +21,7 @@
   ![Process](https://github.com/jt851113/ML2018_410421233/raw/master/photo/PROCESS.JPG)
 
 * 最後結果
-  ![FINAL](https://github.com/jt851113/ML2018_410421233/blob/raw/photo/final.JPG)
+  ![FINAL](https://github.com/jt851113/ML2018_410421233/raw/master/photo/final.JPG)
   算不上好而且還有很大進步空間，大概要透過SVM的設置來改善
   
 ### 雜談:
